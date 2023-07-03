@@ -81,3 +81,9 @@ h4{
     font-weight: lighter;
     font-size: smaller;
 }
+video{
+    margin-top: 50%;
+    padding: 0%;
+    width: max-content;
+    height: max-content;
+}
