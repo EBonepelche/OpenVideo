@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.icon{
+    margin: 0%;
+    padding: 5%;
+    width: 50%;
+    height: auto;
+}
+nav{
+margin: 2% 3%;
+}
+.enlase-nav{
+display: inline-block;
+background-color: rgb(177, 177, 177);
+color: #000;
+border-radius: 25px;
+padding: 2% 2%;
+margin: 0% 1%;
+text-decoration: none;
+text-align: center;
+}
+.enlase-nav-pic{
+    display: inline-block;
+    background-color: rgb(62, 62, 104);
+    color: #fff;
+    border-radius: 25px;
+    padding: 2% 2%;
+    margin: 0% 1%;
+    text-decoration: none;
+    text-align: center;
+    }
+.contenedro{
+    margin: 3% 0%;
+    margin-left: 15%;
+    border-bottom-width:medium;
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+}
+.img-video{
+    margin-left: 15%;
+    width: 70%;
+}
+h3{
+    margin: 0%;
+    margin-left: 15%;
+}
+.nombre-video{
+    margin: 1% 0%;
+    font-weight:bolder;
+    font-size:x-large;
+}
+.caja-usuario{
+    margin-left: 15%;
+    display: inline-block;
+}
+.foto-perfil{
+    display: inline-block;
+    width: 5%;
+    border-radius: 50%;
+}
+.usuario{
+    display: inline-block;
+    padding: 1% 0%;
+    
+}
+h4{
+    flex-grow: 1;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    margin: 2% 0%;
+}
+.info{
+    display: inline-block;
+    margin: 0%;
+    margin-left: 15%;
+    padding: 0%;
+    font-weight: lighter;
+    font-size: smaller;
+}
